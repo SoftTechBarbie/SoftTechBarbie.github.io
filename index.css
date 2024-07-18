@@ -1,1 +1,7 @@
+*{
+  box-model: border-box;
+}
 
+nav {
+  display: inline-block;
+}
