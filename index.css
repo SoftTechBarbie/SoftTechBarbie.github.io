@@ -2,6 +2,6 @@
   box-model: border-box;
 }
 
-.nav {
+li.nav {
   display: inline-box;
 }
